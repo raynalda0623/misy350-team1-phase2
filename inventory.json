@@ -1,0 +1,12 @@
+[
+  {"item_id": 1, "name": "Sourdough Loaf",   "price": 8.50, "stock": 12, "category": "Bread",   "flagged": false},
+  {"item_id": 2, "name": "Croissant",         "price": 3.25, "stock": 20, "category": "Pastry",  "flagged": false},
+  {"item_id": 3, "name": "Blueberry Muffin",  "price": 2.95, "stock": 4,  "category": "Pastry",  "flagged": true},
+  {"item_id": 4, "name": "Cinnamon Roll",     "price": 4.00, "stock": 8,  "category": "Pastry",  "flagged": false},
+  {"item_id": 5, "name": "Whole Wheat Loaf",  "price": 7.75, "stock": 6,  "category": "Bread",   "flagged": false},
+  {"item_id": 6, "name": "Chocolate Eclair",  "price": 4.50, "stock": 3,  "category": "Pastry",  "flagged": true},
+  {"item_id": 7, "name": "Bagel",             "price": 2.00, "stock": 15, "category": "Bread",   "flagged": false},
+  {"item_id": 8, "name": "Lemon Tart",        "price": 5.25, "stock": 2,  "category": "Dessert", "flagged": true},
+  {"item_id": 9, "name": "Almond Croissant",  "price": 4.75, "stock": 10, "category": "Pastry",  "flagged": false},
+  {"item_id": 10,"name": "Baguette",          "price": 3.50, "stock": 7,  "category": "Bread",   "flagged": false}
+]
