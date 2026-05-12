@@ -1,0 +1,12 @@
+[
+  {"sale_id": "A1B2C3D4", "item": "Croissant",        "item_id": 2, "quantity": 3, "unit_price": 3.25, "total": 9.75,  "logged_by": "employee", "date": "2025-01-10 09:15"},
+  {"sale_id": "E5F6G7H8", "item": "Sourdough Loaf",   "item_id": 1, "quantity": 2, "unit_price": 8.50, "total": 17.00, "logged_by": "alice",    "date": "2025-01-10 10:30"},
+  {"sale_id": "I9J0K1L2", "item": "Bagel",            "item_id": 7, "quantity": 5, "unit_price": 2.00, "total": 10.00, "logged_by": "employee", "date": "2025-01-10 11:00"},
+  {"sale_id": "M3N4O5P6", "item": "Cinnamon Roll",    "item_id": 4, "quantity": 4, "unit_price": 4.00, "total": 16.00, "logged_by": "alice",    "date": "2025-01-11 08:45"},
+  {"sale_id": "Q7R8S9T0", "item": "Lemon Tart",       "item_id": 8, "quantity": 2, "unit_price": 5.25, "total": 10.50, "logged_by": "employee", "date": "2025-01-11 13:20"},
+  {"sale_id": "U1V2W3X4", "item": "Chocolate Eclair", "item_id": 6, "quantity": 1, "unit_price": 4.50, "total": 4.50,  "logged_by": "alice",    "date": "2025-01-12 09:00"},
+  {"sale_id": "Y5Z6A7B8", "item": "Croissant",        "item_id": 2, "quantity": 2, "unit_price": 3.25, "total": 6.50,  "logged_by": "employee", "date": "2025-01-12 10:15"},
+  {"sale_id": "C9D0E1F2", "item": "Almond Croissant", "item_id": 9, "quantity": 3, "unit_price": 4.75, "total": 14.25, "logged_by": "alice",    "date": "2025-01-13 08:30"},
+  {"sale_id": "G3H4I5J6", "item": "Baguette",         "item_id": 10,"quantity": 4, "unit_price": 3.50, "total": 14.00, "logged_by": "employee", "date": "2025-01-13 11:45"},
+  {"sale_id": "K7L8M9N0", "item": "Sourdough Loaf",   "item_id": 1, "quantity": 1, "unit_price": 8.50, "total": 8.50,  "logged_by": "alice",    "date": "2025-01-14 09:00"}
+]
